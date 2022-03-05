@@ -1,0 +1,6 @@
+name: StupidGod
+version: '${project.version}'
+main: net.filtastisch.stupidgod.StupidGod
+api-version: 1.16
+commands:
+  god:
